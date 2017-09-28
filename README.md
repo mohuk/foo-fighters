@@ -1,4 +1,4 @@
-# FooFighters
+# FooFighters [![CircleCI](https://circleci.com/gh/mohuk/foo-fighters.svg?style=svg)](https://circleci.com/gh/mohuk/foo-fighters)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.3.
 
